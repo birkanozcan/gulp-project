@@ -1,0 +1,30 @@
+{
+  "name": "gulp-env",
+  "version": "1.0.0",
+  "description": "Gulp Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "template"
+  ],
+  "author": "birkan",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "@chenfengyuan/datepicker": "^1.0.10",
+    "bootstrap": "^4.3.1",
+    "gulp-image": "^6.2.1",
+    "jquery": "^3.6.0",
+    "node-sass": "^4.14.1"
+  }
+}
